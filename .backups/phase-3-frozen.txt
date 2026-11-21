@@ -1,0 +1,16 @@
+SNAPSHOT: phase-3-frozen
+STATUS: FROZEN & VERIFIED (11/11 SHA256SUMS OK)
+WORKSPACE NOTE: Non-Git directory; immutable baseline archived under .backups/phase3_frozen/
+VERIFICATION COMMAND: sha256sum -c .backups/phase3_frozen/SHA256SUMS.txt
+FILES PROTECTED:
+- serverProxy.ts
+- server.ts
+- src/types/football.ts
+- src/utils/poissonModel.ts
+- src/utils/probabilityCalibration.ts
+- src/utils/confidenceEngine.ts
+- src/utils/eloRating.ts
+- src/utils/validationMetrics.ts
+- src/services/providers/statsBombProvider.ts
+- src/services/providers/openLigaDbProvider.ts
+- src/services/footballDataService.ts

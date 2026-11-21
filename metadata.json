@@ -1,0 +1,6 @@
+{
+  "name": "MatchMind AI",
+  "description": "AI-powered football match analysis platform providing statistical modeling, probabilistic market estimates, and tactical match insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
